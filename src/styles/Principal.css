@@ -1,0 +1,10 @@
+.main{
+    height: 100vh;
+    padding: 70px;
+}
+
+.career-title{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
